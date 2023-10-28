@@ -8,4 +8,8 @@ public class TestController {
     public void testCommit(){
 
     }
+
+    public void test(){
+
+    }
 }
